@@ -1,4 +1,4 @@
-# 📊 Using Data Analytics to Solve Inventory & Supply Chain Issues in the Automotive Semiconductor Industry
+# 📊 Using Data Analytics to Solve Inventory & Supply Chain Issues in the Semiconductor Industry
 
 ## 📌 Project Overview
 
