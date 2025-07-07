@@ -28,55 +28,7 @@ Through advanced analytics and **JIRA software integration**, this project enabl
 - **Supplier Data**: Delivery timelines, defect rates, and cost analysis.
 - **Manufacturing Data**: Temperature, pressure, and speed metrics.
 - **Logistics Data**: Expected vs. actual shipment dates.
-
-## 📌 Installation
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
-
-2. **Set Up a Virtual Environment (Optional)**
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install Dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-## 📊 How to Run the Project
-
-### 1. Data Cleaning & Preprocessing
-
-```bash
-python src/data_cleaning.py
-```
-
-### 2. Inventory Forecasting (ARIMA Model)
-
-```bash
-python src/inventory_forecast.py
-```
-
-### 3. Defect Detection (Random Forest Model)
-
-```bash
-python src/defect_detection.py
-```
-
-### 4. Supplier Performance Analysis
-
-```bash
-python src/supplier_analysis.py
-```
-
+- 
 ## 📈 JIRA Integration
 
 We use **JIRA Software** to track project progress and manage supply chain issues.
@@ -101,7 +53,5 @@ We use **JIRA Software** to track project progress and manage supply chain issue
 - Implement **deep learning** for improved defect detection.
 - Automate JIRA issue tracking with **API integration**.
 
-## 📧 Contact
 
-For questions or collaborations, reach out at: yj487352@gmail.com 
 
