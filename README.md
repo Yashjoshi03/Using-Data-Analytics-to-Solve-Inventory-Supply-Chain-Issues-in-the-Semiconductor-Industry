@@ -1,5 +1,7 @@
 # 📊 Using Data Analytics to Solve Inventory & Supply Chain Issues in the Semiconductor Industry
 
+Collaborated with Tirth Dhandhukia 
+
 ## 📌 Project Overview
 
 This project aims to use **data analytics** and **machine learning** to address critical inventory and supply chain challenges faced by the **automotive semiconductor industry**. The focus is on improving **inventory forecasting**, **supplier performance evaluation**, **defect detection**, and **shipment delay analysis**.
